@@ -1,1 +1,3 @@
-Hello Faymax\n This is your first time to usr git!\n Enjoy your time!
+Hello Faymax!
+This is your first time to usr git!
+Enjoy your time!
